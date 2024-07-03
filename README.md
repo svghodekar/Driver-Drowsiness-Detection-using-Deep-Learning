@@ -21,6 +21,7 @@ altair==4
  
 # Download and Install :- jupyter notebook 
 
+# File download :-
 
 model.keras file link :- https://drive.google.com/file/d/1qGmTM_XD_9uq2VkDEScKs-dkyvl4dP2p/view?usp=sharing
 
