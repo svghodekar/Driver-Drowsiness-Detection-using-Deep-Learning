@@ -51,19 +51,24 @@ MRL Eyes Data dataset for training and testing the model
 
 # Detailed steps to set up the project :-
 
-# Step 0 :- 
+# Step 0 :- Driver-Drowsiness-Detection-using-Deep-Learning-main zip file 
 
+ Extract Driver-Drowsiness-Detection-using-Deep-Learning-main this file 
+ 
 # Step 1: Download the model.keras file.
 
 Download the model.keras file from the provided link: https://drive.google.com/file/d/1qGmTM_XD_9uq2VkDEScKs-dkyvl4dP2p/view?usp=sharing
+and this file add in Driver-Drowsiness-Detection-using-Deep-Learning-main in models folder
 
-# Step 2: Download the MRL Eyes Data file.
+# Step 2: Download the mrlEyes_2018_01 file.
 
-Download the MRL Eyes Data file from the provided link: https://drive.google.com/file/d/1yePKN89sTQxpTNyiq9AMhK2pchNbww4x/view?usp=sharing
+Download the mrlEyes_2018_01 file from the provided link: https://drive.google.com/file/d/1yePKN89sTQxpTNyiq9AMhK2pchNbww4x/view?usp=sharing
 
 # Step 3: Extract the MRL Eyes Data file.
 
 Extract the downloaded MRL Eyes Data file to a folder named MRL Eyes Data.
+
+Create a new folder MRL Eyes Data in the Driver-Drowsiness-Detection-using-Deep-Learning-main and add mrlEyes_2018_01 this file in the MRL Eyes Data this folder 
 
 # Step 4: Create a Prepared_Data folder.
 
