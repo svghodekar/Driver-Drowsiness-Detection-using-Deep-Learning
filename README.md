@@ -1,6 +1,34 @@
 # Driver-Drowsiness-Detection-using-Deep-Learning
 
-This project aims to develop a deep learning-based system to detect driver drowsiness using eye images. The system uses a convolutional neural network (CNN) to classify eye images as either "open" or "closed", indicating whether the driver is awake or drowsy.
+This project aims to develop a deep learning-based system to detect driver drowsiness using eye images. The system uses a convolutional neural network (CNN) to classify eye images as either "open" or "closed", indicating whether the driver is awake or drowsy. The project utilizes Python programming language and Jupyter Notebook for development and testing.
+
+# Objects :-
+
+1) EyeImage: Represents an eye image, which is the input to the system.
+   
+Attributes:
+
+image_data: The pixel values of the eye image.
+
+label: The label of the eye image, either "open" or "closed".
+
+2) CNNModel: Represents the convolutional neural network model used for driver drowsiness detection.
+   
+Attributes:-
+
+model_architecture: The architecture of the CNN model.
+
+model_weights: The trained weights of the CNN model.
+
+3) DriverDrowsinessDetector: Represents the driver drowsiness detector object, which uses the CNN model to detect drowsiness.
+
+Attributes:
+
+cnn_model: The trained CNN model used for detection.
+
+Methods:-
+
+detect_drowsiness(): Takes an eye image as input and detects whether the driver is drowsy or not.
 
 # Requirement ( library & IDE ) :-
 
@@ -8,21 +36,7 @@ Download and Install :- jupyter notebook
 
 library :-
 
-Pillow
-
-tensorflow==2.14.0
-
-protobuf==3.20.*
-
-streamlit==1.5.1
-
-opencv-python
-
-click==7.1.2 
-
-pygame
-
-altair==4
+Pillow, tensorflow==2.14.0, protobuf==3.20.*, streamlit==1.5.1, opencv-python, click==7.1.2 , pygame, altair==4
 
 # Tools and Technologies:
 
@@ -77,6 +91,19 @@ Move 2500 images from the Open Eyes folder in Prepared_Data to the Open Eyes fol
 
 # Step 11 :- Then run the main.ipynb.
 
+# Authors
+
+[ Shivam Ghodekar ] - Developer and Maintainer.
+
+# Contact
+
+If you have any questions, issues, or feedback, please don't hesitate to contact us:
+
+Email:- svghodekar1903@gmail.com
+
+Instagram :- i_am_shivamghodekar
+
+GitHub: https://github.com/svghodekar
 
 
 
