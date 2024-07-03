@@ -1,10 +1,12 @@
 # Driver-Drowsiness-Detection-using-Deep-Learning
 
-Driver-Drowsiness-Detection-System by using python &amp; deep learning
+This project aims to develop a deep learning-based system to detect driver drowsiness using eye images. The system uses a convolutional neural network (CNN) to classify eye images as either "open" or "closed", indicating whether the driver is awake or drowsy.
 
 # Requirement ( library & IDE ) :-
 
 Download and Install :- jupyter notebook 
+
+library :-
 
 Pillow
 
