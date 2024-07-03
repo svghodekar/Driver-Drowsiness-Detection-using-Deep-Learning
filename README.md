@@ -6,29 +6,29 @@ This project aims to develop a deep learning-based system to detect driver drows
 
 1) EyeImage: Represents an eye image, which is the input to the system.
    
-Attributes:
+   Attributes:
 
-image_data: The pixel values of the eye image.
+   image_data: The pixel values of the eye image.
 
-label: The label of the eye image, either "open" or "closed".
+   label: The label of the eye image, either "open" or "closed".
 
 2) CNNModel: Represents the convolutional neural network model used for driver drowsiness detection.
    
-Attributes:-
+   Attributes:-
 
-model_architecture: The architecture of the CNN model.
+   model_architecture: The architecture of the CNN model.
 
-model_weights: The trained weights of the CNN model.
+   model_weights: The trained weights of the CNN model.
 
 3) DriverDrowsinessDetector: Represents the driver drowsiness detector object, which uses the CNN model to detect drowsiness.
 
-Attributes:
+   Attributes:
 
-cnn_model: The trained CNN model used for detection.
+   cnn_model: The trained CNN model used for detection.
 
-Methods:-
+   Methods:-
 
-detect_drowsiness(): Takes an eye image as input and detects whether the driver is drowsy or not.
+   detect_drowsiness(): Takes an eye image as input and detects whether the driver is drowsy or not.
 
 # Requirement ( library & IDE ) :-
 
