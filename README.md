@@ -23,6 +23,16 @@ click==7.1.2
 pygame
 
 altair==4
+
+# Tools and Technologies:
+
+Python programming language
+
+Jupyter Notebook for development and testing
+
+Deep learning framework (Keras) for building and training the CNN model
+
+MRL Eyes Data dataset for training and testing the model
  
 
 # Detailed steps to set up the project :-
