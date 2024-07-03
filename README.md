@@ -19,9 +19,7 @@ pygame
 
 altair==4
  
-# Requirement :-
-
-jupyter notebook 
+# Download and Install :- jupyter notebook 
 
 
 model.keras file link :- https://drive.google.com/file/d/1qGmTM_XD_9uq2VkDEScKs-dkyvl4dP2p/view?usp=sharing
