@@ -51,6 +51,8 @@ MRL Eyes Data dataset for training and testing the model
 
 # Detailed steps to set up the project :-
 
+# Step 0 :- 
+
 # Step 1: Download the model.keras file.
 
 Download the model.keras file from the provided link: https://drive.google.com/file/d/1qGmTM_XD_9uq2VkDEScKs-dkyvl4dP2p/view?usp=sharing
